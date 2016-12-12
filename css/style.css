@@ -1,0 +1,141 @@
+
+
+.logo {
+
+    width: 50%; 
+}
+
+.logo2 {
+
+    width:60%;
+}
+
+.caja {
+
+    margin:0 auto;
+    width: 80%;
+}
+
+.padre {
+
+   
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+
+
+.micasa {
+
+    border: 5px solid saddlebrown;
+
+
+}
+.main {
+
+border: 1px solid springgreen;
+margin-top: 10px;
+margin-left: 10px;
+
+}
+.principal {
+
+border: 3px solid palevioletred;
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+.latreal {
+
+    /*border: 1px solid pink;*/
+    margin-right: 20px; 
+    width: 300px;
+
+
+}
+
+.lateral li {
+
+    border: 1px dotted black;
+    height: 50px;
+    list-style: none;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+  
+}
+
+aside ul {
+    width:100%;
+/*border: 1px solid olive;*/
+padding-left: 0px;
+
+}
+
+.redaccion {
+
+border: 1px dotted blue;
+padding-left: 20px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+margin-right: 10px;
+margin-top: 10px;
+
+}
+
+.texto {
+    background-color:blue;
+    color: white;
+    width: 215px;
+    margin-top: 0;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 5px;
+
+}
+
+.homologacion {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+}
+
+
+footer {
+
+width: 80%;
+margin:0 auto;
+border:1px solid black;
+background: deepskyblue;
+
+}
+
+.photo1 {
+
+  width:80%;
+height: 60%;
+}
+.photo3 {
+
+width:30%;
+height: 30%;
+
+}
+
+.photo2{
+
+width:30%;
+height: 30%;
+
+}
